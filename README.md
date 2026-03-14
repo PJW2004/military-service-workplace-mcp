@@ -1,5 +1,7 @@
 # military-service-workplace-mcp
 
+[![npm version](https://img.shields.io/npm/v/military-service-workplace-mcp)](https://www.npmjs.com/package/military-service-workplace-mcp)
+
 병무청 병역일터에서 병역특례 지정업체를 검색하는 MCP 서버입니다.<br/>
 산업기능요원, 전문연구요원, 승선근무예비역 복무가 가능한 업체 정보를 조회합니다.
 
