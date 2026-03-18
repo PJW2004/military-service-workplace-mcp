@@ -1,5 +1,6 @@
 # military-service-workplace-mcp
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![npm version](https://img.shields.io/npm/v/military-service-workplace-mcp)](https://www.npmjs.com/package/military-service-workplace-mcp)
 
 병무청 병역일터에서 병역특례 지정업체를 검색하는 MCP 서버입니다.<br/>
